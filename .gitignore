@@ -1,0 +1,8 @@
+**/Mercury
+*.err
+*_init.c
+*.o
+*.mh
+*.c_date
+*.c
+*.d
